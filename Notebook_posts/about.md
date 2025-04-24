@@ -23,7 +23,29 @@ edmeesparrow@gmail.com
 
 
 ### EDUCATION
-2012-2016 |Universi
+
+
+Supervisor: Prof
+
+2016-2019 |Taiyuan University of Technology, Taiyuan, China
+
+- M.Sc., Mechanical Engineering
+
+  
+
+2017-2019 |Sichuan University, Chengdu, China
+
+- Exchange student, Material Science
+
+
+
+2012-2016 |Taiyuan University of Technology, Taiyuan, China
+
+- B.Sc., Mechanical Design & Manufacturing and Automation
+
+
+
+
 
 ### Professional Experience
 2024 | ***University of Haifa, Israel***
@@ -49,5 +71,6 @@ edmeesparrow@gmail.com
   - Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
 
 ### SKILLS 
-- 
+-  Solid foundation in Chinese and English, reading, speaking and writing.
+- Experienced at ArcGIS, Ocean data View, Global Mapper, PIX4D, Paradigm, Cloudcompare; Adobe Photoshop, Siemens NX 10.0, Autodesk 3ds Max, Autodesk AutoCAD; Origin; MATLAB; Molecular Dynamics simulation; Finite Element Method simulation.
 
