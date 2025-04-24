@@ -26,53 +26,26 @@ edmeesparrow@gmail.com
 2012-2016 |Universi
 
 ### Professional Experience
-2022 | ***Universiy of Rhode Island - Rhode Island, USA***
+2024 | ***University of Haifa, Israel***
 
-		- Supervisors - Dr. Hollie Putnam
+		- Supervisor
 	- Effects of acute thermal stress and acute thermal priming on larvae of 	  the reef building coral *Pocillopora acuta*
 	- Genetic, functional and reproductive diversity of *Pocillopora sp.* in 	  the lagoon of Mo’orea.
 
-2021-2022 | ***Oregon State University – Tetiaroa, French Polynesia***
-		- Research Assistant - *Impacts of rat eradication on coral reef health*
-		- Supervisors - Drs. Rebecca Vega Thurber Hannah Epstein
-	- Coral surveys via transect, coral and water sampling for bacterial 	  analysis, multivariate and generalized linear statistical modeling in 	  R
-	
-2020-2021 | ***Tetiaroa Society– Tetiaroa, French Polynesia***
-		- Ranger 
-	- Marine Protected Area and Ecostation security patrols, fish 	  identification, field technical support to researchers (Lancaster 	  University, Oregon University) including spearfishing, snorkeling, 	  photogrammetry, drone piloting, 3D modeling, and rat trapping, 	  localization and eradication
-
-2019-2020 | ***Centre de Recherches Insulaires et Observatoires de l’Environnement (CRIOBE) Mo’orea French Polynesia***   
-	*Effects of coral bleaching on coral reef cover and composition*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral surveys via transect, coral photography, coral identification 	  and cover estimates, bleaching quantification, multivariate statistics 	  in R   
-		*Effects of ocean acidification on coral growth and metabolism*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- 3D scanning for volume, buoyant weight for bulk calcification, 	  Firesting Pyroscience oxygen optode respirometry   
-		*Effects of size of microfragmentation on coral growth*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral fragment propagation of 10 species in the genera Acropora, 	  Montipora, Pocillopora, Porites, and Cyphastrea   
-
-2017 | ***Recif at Home***   
-	Coral Farmer   
-	- Supervisors – Mr. Boris Rota   
-	- Coral fragmentation, coral husbandry, coral health, species selection   
+ - - 
 
 ### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
 - Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
-- Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
-- Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
-- Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
-	
+- 
 ### SCHOLARSHIPS AND AWARDS
-- Master degree 1 and 2 Awarded with Honors   
-- Scholarships for academic excellence are not given in France, but are income based   
-- Technical Specialist Diploma (DU) Awarded with Honors   
+- Master degree Awarded with Honors   
+- 
 
 ### TEACHING AND EDUCATION
 - 
 
 ### CONFERENCE
-- Benthic Ecology Meeting - NH, Portsmouth, USA 
+- IAAS, Israel 
   - Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
 
 ### SKILLS 
